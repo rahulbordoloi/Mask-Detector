@@ -11,7 +11,7 @@ Mask Detection Program using Tensorflow, Keras and OpenCV. The Base Model being 
 
 ## About
 
-It is a Mask Detection Program to aware people for wearning masks and protect themselves during Corona pandemic.
+It is a Mask Detection Program to make people aware for wearing masks and protect themselves during the Corona pandemic.
 
 ## Output
 
@@ -20,6 +20,15 @@ Without Mask @400p : <br>
 <br><br>
 With Mask @400p : <br>
 ![](./outputs/w-mask400p.JPG) <br>
+
+Sample Output 1 : <br>
+![](./outputs/Op1.gif) <br>
+
+Sample Output 2 : <br>
+![](./outputs/Op2.gif) <br>
+
+Sample Output 3 : <br>
+![](./outputs/Op3.gif) <br>
 
 All the section wise output files according to sections are in `/output`.
 
@@ -40,7 +49,7 @@ Run the Mask-Detector from your terminal with -
 *** <b>Model Training</b> ***
 
 1. Firstly we need to create a Neural Network to classify the frames as positive/negative (Wearing a Mask or not).
-2. We train a model using `ResNet10` as the BaseModel and perform Data Augmentation to get more images from the given `dataset`.
+2. We train a model using `ResNet10` as the BaseModel and perform Data Augmentation to get more images from the given `/dataset`.
 3. After creation of the NN we train the model with some given pre-defined hyperparamters. After which we get something like this -
 ```
 *** Loading Models ***
