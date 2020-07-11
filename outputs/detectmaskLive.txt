@@ -1,0 +1,6 @@
+(venv) D:\Studies (Contd.)\Projects\Mask-Detector\Mask\MaskDetector-master>python detectMaskLive.py
+***** Loading FaceDetector *****
+***** Loading FaceMask Detector *****
+
+------------- Starting Video Stream -------------
+------------- Video Stream Stopped -------------
