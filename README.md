@@ -11,7 +11,7 @@ Mask Detection Program using Tensorflow, Keras and OpenCV. The Base Model being 
 
 ## About
 
-It is a Mask Detection Program to make people aware for wearing masks and protect themselves during the Corona pandemic.
+It is a Mask Detection Program to make people aware of wearing masks and protect themselves during the Corona pandemic.
 
 ## Output
 
